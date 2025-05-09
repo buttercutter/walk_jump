@@ -10,5 +10,6 @@ NOTE:
 TODO: 
 - Needs to revise the inference code
 - Adapts the code for [BEND benchmark](https://arxiv.org/abs/2311.12570)
+- Study and implement the effects of post-translational modifications PTM of [RNA-binding proteins RBPs](https://pmc.ncbi.nlm.nih.gov/articles/PMC11182006/)
 
 Credit: o3, Claude, Gemini AI bots
