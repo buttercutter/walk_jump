@@ -3,7 +3,7 @@
 A simple implementation of [Protein Discovery with Discrete Walk-Jump Sampling](http://arxiv.org/abs/2306.12360)
 
 NOTE: 
-- The validation losses for both EBM and denoiser modules are 0.01 (uses MSE loss) and 0.13 (uses cross-entropy loss) respectively.
+- The validation losses for both EBM and denoiser modules are 0.01 (uses MSE loss) and 1.3 (uses cross-entropy loss) respectively.
 - Previous code commmit history is found [here](https://gist.github.com/buttercutter/7b99cfff0a2d48f9c8befeadee6dd54e)
 - See a bit of theory study [here](https://drive.google.com/file/d/1i4pxy2aJgflMYctFgh9kRZipExLhaIjX/view?usp=sharing)
 
